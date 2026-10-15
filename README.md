@@ -1,2 +1,2 @@
 # pos-ED-GIT
-Aula Pratica
+Aula Prática
