@@ -7,3 +7,4 @@ Atualização 3.0
 
 Atualização 4.0
 
+Atualizado através da branch bug/corrigir_etl
